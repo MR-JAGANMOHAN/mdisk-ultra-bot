@@ -38,6 +38,3 @@ Start your Bot in Telegram & Enjoy
 
 `API ID` & `API HASH` Get your own 🤗 from https://my.telegram.org
 
-##### Credit
-
-- Me [Shashwat-Shukla](https://github.com/Shashwat-Shukla) For This Repo
