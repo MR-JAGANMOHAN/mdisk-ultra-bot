@@ -47,7 +47,7 @@ async def Doodstream_uploader(bot, message):
 @bot.on_message(filters.photo & filters.private)
 async def Doodstream_uploader(bot, message):
     new_string = str(message.caption)
-    conv = await message.reply("Ruko jara Sabar kro ✋")
+    conv = await message.reply("wait chey ra THAMMUDU ✋")
     dele = conv["message_id"]
     try:
         Doodstream_link = await multi_Doodstream_up(new_string)
