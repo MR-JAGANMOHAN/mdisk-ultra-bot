@@ -124,7 +124,6 @@ async def multi_Doodstream_up(ml_string):
     new_ml_string = await remove_username(new_ml_string)
     new_join_str = "".join(new_ml_string)
 
-    urls = re.findall(r'(https?://[^\s]+)', new_join_str)
     urls = re.findall(r'(mdisk.me[^\s]+)', new_join_str)
 
     nml_len = len(new_ml_string)
