@@ -11,23 +11,23 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token (must add)",
-            "value": ""
+            "value": "5756391926:AAFoT0LIY1uBX_HySSKuUy7HqxkCkoLqMGE"
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": ""
+            "value": "13115322"
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": ""
+            "value": "f28fbd1367ddda2e6f863c3129323743"
         },
         "CUSTOM_FOOTER": {
             "description": "Enter your Custom Footer",
-            "value": "eg. JOIN MY CHANNEL"
+            "value": "JOIN MY CHANNEL"
         },
         "MDISK_TOKEN": {
             "description": "Put your MDisk API key here",
-            "value": "j219piqFPsQBhba52F4l"
+            "value": "zwxo6CxXnwc5vnNqj7PT"
         }
     },
     "addons": [],
